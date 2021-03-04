@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Icon/ Eye</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Login-Page-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MB_Account-settings-Account-DT" transform="translate(-940.000000, -435.000000)">
+            <g id="Group-2" transform="translate(508.000000, 311.000000)">
+                <g id="Settings/-Border" transform="translate(20.000000, 93.000000)">
+                    <g id="Group">
+                        <g id="Placeholder/-Password" transform="translate(124.000000, 25.000000)">
+                            <g id="Icon/-Eye/-Disabled" transform="translate(288.000000, 3.000000)">
+                                <g>
+                                    <rect id="Rectangle" x="0" y="0" width="20" height="20"></rect>
+                                    <path d="M10,3 C13.8385683,3 17.0631947,5.14879681 19.6738791,9.44639044 L19.7010141,9.49245367 C19.8855219,9.80566665 19.885527,10.1943363 19.7010273,10.5075541 L19.6745185,10.552557 C17.0637212,14.8508523 13.8388817,17 10,17 C6.16916762,17 2.94980511,14.8598555 0.341912453,10.5795664 L0.299894793,10.5083435 C0.11487603,10.1947232 0.11495302,9.80532223 0.300095785,9.49177518 L0.351647265,9.40447058 C2.95781526,5.13482353 6.17393284,3 10,3 Z M10,6 C7.790861,6 6,7.790861 6,10 C6,12.209139 7.790861,14 10,14 C12.209139,14 14,12.209139 14,10 L13.9991847,9.999 L10.5861825,10 C10.455657,10 10.3316993,9.94905249 10.2394323,9.86023785 L10.1765666,9.78673117 C10.0182093,9.56050652 10.0732267,9.24874129 10.2994514,9.09038404 L10.2994514,9.09038404 L12.9140281,7.25982946 C12.1844727,6.48428177 11.1487914,6 10,6 Z" id="Combined-Shape" fill="#848484" fill-rule="nonzero"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

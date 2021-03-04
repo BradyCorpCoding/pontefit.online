@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Controls Small / Checkboxes / Radio Ok • White</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop_Full" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MB_Desktop-Onboarding_03_8" transform="translate(-832.000000, -322.000000)">
+            <g id="Control/Table/Check-" transform="translate(529.000000, 312.000000)">
+                <g id="Control/Elements/Checkbox/Yes/Blue-" transform="translate(303.000000, 10.000000)">
+                    <g id="Graphics-/-Navbar-&amp;-Toolbar-Icons-/-White-/-Info">
+                        <path d="M0,12 C0,5.372583 5.372583,0 12,0 C18.627417,0 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 C5.372583,24 0,18.627417 0,12 Z" id="Information-Icon" fill="#1044FF"></path>
+                        <path d="M10.5535048,14.5592832 L17.0048468,7.8045212 C17.3926365,7.39849293 18.0213678,7.39849293 18.4091575,7.8045212 C18.7969472,8.21054946 18.7969472,8.86885134 18.4091575,9.27487961 L10.5535048,17.5 L5.99084209,12.7227458 C5.60305238,12.3167175 5.60305238,11.6584156 5.99084209,11.2523874 C6.3786318,10.8463591 7.00736314,10.8463591 7.39515285,11.2523874 L10.5535048,14.5592832 Z" id="Icon" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
